@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ollie-Edwards
-- 👀 I’m interested in Python, games and Web Design
+- 👀 I’m interested in Python, Games and Web Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
